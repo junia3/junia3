@@ -38,7 +38,7 @@
 
 ## 🎓 EDUCATION 🎓
 #### Bachelor Degree of Electrical and Electronic engineering (03/2016 - 08/2022)   
-##### (Yonsei University, Seoul (GPA : 3.95/4.5))   
+##### (Yonsei University, Seoul)   
 #### Master Degree of Electrical and Elecronic engineering (09/2022 - Present)   
 ##### (Yonsei University, Seoul)   
 
