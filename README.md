@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Nice%20to%20meet%20you&fontSize=35&fontAlignY=30" />
-
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Nice%20to%20meet%20you&fontSize=35&fontAlignY=30" />
+</p>
 <div align="center">
     <span>
       <a href="https://junia3.github.io">
