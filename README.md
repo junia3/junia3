@@ -68,8 +68,5 @@
 <span>
     <img src="https://img.shields.io/badge/ LaTeX-black?style=flat-square&logo=LaTeX&logoColor=white"/>
 </span>
-
-## ⛏️ Status ⛏️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=radical)
   
 </div>
