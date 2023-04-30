@@ -23,9 +23,7 @@
       </a>
     </span>
 
-##### Hello! My name is Junyoung Park. I want to be a deep learning research engineer and full stack developer skilled in API, WEB and APP.      
-##### Currently, I am researching on multimodal learning with generative approach, **prompt learning** and **zero-shot learning**.   
-   
+##### Hello! My name is Junyoung Park. I want to be a deep learning research engineer and full stack developer skilled in API, WEB and APP.       
    
 ## ✍️ OBJECTIVE ✍️
 ##### Reseach on generative models, multimodal
