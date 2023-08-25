@@ -28,7 +28,7 @@
       </a>
     </span>
 
-##### Hello! My name is Junyoung Park. I want to be a deep learning research engineer and full stack developer skilled in API, WEB and APP.       
+##### Hello! My name is Junyoung Park, Deep learning research engineer.       
    
 ## ✍️ OBJECTIVE ✍️
 ##### Reseach on generative models, multimodal
