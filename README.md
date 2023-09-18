@@ -31,7 +31,7 @@
 ##### Hello! My name is Junyoung Park, Deep learning research engineer.       
    
 ## ✍️ OBJECTIVE ✍️
-##### Reseach on generative models, multimodal
+##### Reseach on deep learning
 
 ## 💻 WORK EXPERIENCE 💻
 #### Math Academy, Seoul/South Korea (02/2016 ~ 07/2022)   
