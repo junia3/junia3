@@ -71,6 +71,5 @@
 <span>
     <img src="https://img.shields.io/badge/ LaTeX-black?style=flat-square&logo=LaTeX&logoColor=white"/>
 </span>
-  
 </div>
 </div>
