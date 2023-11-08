@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9761CF,50:7CB2FF,100:B5FF89&height=150&section=header&text=Nice%20to%20meet%20you%20!!&fontSize=35&fontAlignY=30&fontColor=FFFFFF" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:B5FF89&height=150&section=header&text=🐈‍⬛🐈‍⬛🐈‍⬛&fontSize=35&fontAlignY=30&fontColor=FFFFFF" />
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=junia3&label=VISITORS&countColor=%23f47373)
