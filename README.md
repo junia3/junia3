@@ -4,8 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:B5FF89&height=150&section=header&text=&fontSize=35&fontAlignY=30&fontColor=FFFFFF" />
 </p>
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=junia3&label=VISITORS&countColor=%23f47373)
-
 <div align="center">
     <span>
       <a href="https://junia3.github.io">
@@ -29,7 +27,10 @@
     </span>
 
 ##### Hello! My name is Junyoung Park, Deep learning research engineer.       
-   
+
+<details>
+<summary>CV</summary>
+
 ## ✍️ OBJECTIVE ✍️
 ##### Reseach on deep learning
 
@@ -73,3 +74,5 @@
 </span>
 </div>
 </div>
+
+</details>
