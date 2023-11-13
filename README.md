@@ -1,5 +1,5 @@
 <div align="center">
-    
+<br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Junyoung+Park;Research+on+deep+learning" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
