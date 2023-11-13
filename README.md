@@ -31,22 +31,22 @@
 <details>
 <summary>CV</summary>
 
-## ✍️ OBJECTIVE
+## OBJECTIVE
 ##### Reseach on deep learning
 
-## 💻 WORK EXPERIENCE
+## WORK EXPERIENCE
 #### Math Academy, Seoul/South Korea (02/2016 ~ 07/2022)   
 #### Teaching assistant for C language courses in Yonsei University, Seoul/South Korea (2020, 2021)   
 #### Yonsei University/Digital Signal Processing Lab (05/2021 ~ 08/2021)   
 #### Yonsei University, Seoul/Digital Image Media Lab (09/2021 ~ Present)   
 
-## 🎓 EDUCATION
+## EDUCATION
 #### Bachelor Degree of Electrical and Electronic engineering (03/2016 ~ 08/2022)   
 ##### (Yonsei University, Seoul)   
 #### Master Degree of Electrical and Elecronic engineering (09/2022 ~ Present)   
 ##### (Yonsei University, Seoul)   
 
-## ⌨️ ADDITIONAL SKILLS
+## ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat-square&logo=C&logoColor=white"/>
 </span>
