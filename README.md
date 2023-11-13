@@ -76,12 +76,12 @@ Master Degree of Electrical and Elecronic engineering (09/2022 ~ Present) (Yonse
 <br><br>
 <div align="center">
 <!-- My profile -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=42A6FF&text_color=fff&title_color=42A6FF&count_private=true" width=38% />
+</a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=42A6FF&text_color=fff&title_color=42A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=42A6FF&text_color=fff&title_color=42A6FF&count_private=true" width=38% />
-</a>    
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=42A6FF&color=42A6FF" width=94%/>
 </a>
