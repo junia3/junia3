@@ -26,7 +26,7 @@
       </a>
     </span>
 
-##### Hello! My name is Junyoung Park, Deep learning research engineer.       
+### Hello! My name is Junyoung Park, Deep learning research engineer.       
 
 <details>
 <summary>CV</summary>
