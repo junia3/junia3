@@ -1,80 +1,91 @@
 <div align="center">
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:B5FF89&height=150&section=header&text=&fontSize=35&fontAlignY=30&fontColor=FFFFFF" />
-</p>
-
-<div align="center">
-    <span>
-      <a href="https://junia3.github.io">
-        <img src="https://img.shields.io/badge/GitHub Blog-red?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
-      </a>
-    </span>
-    <span>
-      <a href="mailto:jun_yonsei@yonsei.ac.kr">
-        <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=Gmail&logoColor=white"/>
-      </a>
-    </span>
-    <span>
-      <a href="https://www.instagram.com/6unoyunr/">
-        <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/>
-      </a>
-    </span>
-    <span>
-      <a href="https://www.facebook.com/jyyonsei">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"/>
-      </a>
-    </span>
-
-### Hello! My name is Junyoung Park, Deep learning research engineer.       
-
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Junyoung+Park;Research+on+deep+learning" alt="Typing SVG" /></a>
+<br>
+<div align="center">  
+<br>
 <details>
-<summary>CV</summary>
+<summary>About Me</summary>
+    
+<br><br>
+    
+<span>
+  <a href="https://junia3.github.io">
+    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="mailto:jun_yonsei@yonsei.ac.kr">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.facebook.com/jyyonsei">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
+  </a>
+</span>   
+<br><br>
 
 ## OBJECTIVE
-##### Reseach on deep learning
+Reseach on deep learning
 
 ## WORK EXPERIENCE
-#### Math Academy, Seoul/South Korea (02/2016 ~ 07/2022)   
-#### Teaching assistant for C language courses in Yonsei University, Seoul/South Korea (2020, 2021)   
-#### Yonsei University/Digital Signal Processing Lab (05/2021 ~ 08/2021)   
-#### Yonsei University, Seoul/Digital Image Media Lab (09/2021 ~ Present)   
+Math Academy, Seoul/South Korea (02/2016 ~ 07/2022)   
+Teaching assistant for C language courses in Yonsei University, Seoul/South Korea (2020, 2021)   
+Yonsei University/Digital Signal Processing Lab (05/2021 ~ 08/2021)   
+Yonsei University, Seoul/Digital Image Media Lab (09/2021 ~ Present)   
 
 ## EDUCATION
-#### Bachelor Degree of Electrical and Electronic engineering (03/2016 ~ 08/2022)   
-##### (Yonsei University, Seoul)   
-#### Master Degree of Electrical and Elecronic engineering (09/2022 ~ Present)   
-##### (Yonsei University, Seoul)   
+Bachelor Degree of Electrical and Electronic engineering (03/2016 ~ 08/2022) (Yonsei University, Seoul)   
+Master Degree of Electrical and Elecronic engineering (09/2022 ~ Present) (Yonsei University, Seoul)   
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
    
 <span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=flat-square&logo=jQuery&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=flat-square&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
 </div>
 </div>
-
----
-
 </details>
+<br><br>
+<div align="center">
+<!-- My profile -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=42A6FF&text_color=fff&title_color=42A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=42A6FF&text_color=fff&title_color=42A6FF&count_private=true" width=38% />
+</a>    
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=42A6FF&color=42A6FF" width=94%/>
+</a>
+
+<br><br><br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%2342A6FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
