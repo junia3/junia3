@@ -26,7 +26,7 @@ jobs:
         with:
           github_user_name: junia3
           outputs: |
-            dist/mysnake.svg?color_snake=#FFFFFF&color_dots=#ccf9ff,#7ce8ff,#55d0ff,#00acdf,#0080bf?palette=github-dark
+            dist/mysnake.svg?color_snake=#EEEEEE&color_dots=#3D76E0,#28ACEA,#19CEEB,#09EBEE,#00FEEF?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
