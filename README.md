@@ -73,6 +73,11 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 </span>
 </div>
 </div>
+
+## Publications
+- J. Park et al. "Motion Blur Measurement of Facial Videos Using Cosine Similarity and Regression Network for Estimation"
+- J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation" ```IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024```
+
 </details>
 <br><br>
 <div align="center">
