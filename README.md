@@ -78,7 +78,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 **J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
 ```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
 **J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```IEEE/CVF WACV 2024```  TBD    
+```IEEE/CVF WACV 2024```  Poster presentation
 
 </div>
 </div>
