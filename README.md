@@ -79,7 +79,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 ```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
 **J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
 ```WACV 2024```  Accept (Poster presentation)  
-**I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-Confidence Pseudo-Label Distillation"**  
+**I. Yoon, J. Park et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-Confidence Pseudo-Label Distillation"**  
 ```ECCV 2024```  Accept  
 
 </div>
