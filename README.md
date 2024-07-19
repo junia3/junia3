@@ -5,47 +5,18 @@
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Junyoung+Park;Research+on+deep+learning" alt="Typing SVG" /></a>
-<br>
-<div align="center">  
-<br>
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
-<br><br>
-<span>
-  <a href="https://junia3.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:jun_yonsei@yonsei.ac.kr">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.facebook.com/jyyonsei">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
-  </a>
-</span>   
-<br><br>
+
+<div align="left">  
 
 ## OBJECTIVE
-Reseach on deep learning
-
-## WORK EXPERIENCE
-Math Academy, Seoul/South Korea ```(02/2016 ~ 07/2022)```  
-Teaching assistant for C language courses in Yonsei University, Seoul/South Korea ```(2020, 2021)```   
-Yonsei University/Digital Signal Processing Lab ```(05/2021 ~ 08/2021)```  
-Yonsei University, Seoul/Digital Image Media Lab ```(09/2021 ~ Present)```   
+AI Research   
 
 ## EDUCATION
 Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` (Yonsei University, Seoul)   
+Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` (Yonsei University, Seoul)   
 
 ## ADDITIONAL SKILLS
 <span>
@@ -74,12 +45,10 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
     <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
 
-## Publications
-**J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
-```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
+## Publications 
 **J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
 ```WACV 2024```  Accept (Poster presentation)  
-**I. Yoon, J. Park et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-Confidence Pseudo-Label Distillation"**  
+**I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation"**  
 ```ECCV 2024```  Accept  
 
 </div>
