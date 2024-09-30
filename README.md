@@ -6,6 +6,14 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Junyoung+Park;Research+on+deep+learning" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
+
+<div align="left">
+Hi! 🤗 My name is Junyoung Park, and I’m currently working as an AI researcher at SBS (Seoul Broadcasting System).  
+I am particularly interested in utilizing large foundation models to develop services based on them.  
+Feel free to reach out for a coffee chat! ☕☕
+</div>
+<br><br>
+
 <details>
 <summary>About Me</summary>
 
