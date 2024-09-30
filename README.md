@@ -57,7 +57,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
 **J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
 ```WACV 2024```  Accept (Poster presentation)  
 **I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation"**  
-```ECCV 2024```  Accept  
+```ECCV 2024```  Accept (Poster presentation)  
 
 </div>
 </div>
